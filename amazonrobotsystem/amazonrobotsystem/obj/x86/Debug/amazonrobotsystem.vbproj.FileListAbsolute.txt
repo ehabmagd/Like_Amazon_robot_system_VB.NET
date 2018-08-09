@@ -1,0 +1,21 @@
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\bin\Debug\amazonrobotsystem.exe
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\bin\Debug\amazonrobotsystem.pdb
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\bin\Debug\amazonrobotsystem.xml
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.Resources.resources
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.vbproj.GenerateResource.Cache
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.exe
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.xml
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.pdb
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.amazonrobotsystem.resources
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.exe
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.xml
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.pdb
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.exe
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.xml
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.pdb
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\bin\Debug\amazonrobotsystem.exe
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\bin\Debug\amazonrobotsystem.pdb
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\bin\Debug\amazonrobotsystem.xml
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.amazonrobotsystem.resources
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.Resources.resources
+C:\Users\Ihab-majdy\Desktop\games\amazonrobotsystem\amazonrobotsystem\obj\x86\Debug\amazonrobotsystem.vbproj.GenerateResource.Cache
